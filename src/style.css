@@ -39,7 +39,7 @@ nav{
 
 .imgBg{
     width: 100%;
-    background:url('./assets/Hero-bg.png') no-repeat center center/cover;
+    background:url('assets/Hero-bg.png') no-repeat center center/cover;
     text-align: center;
     padding: 38px 0px;
 }
